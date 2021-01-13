@@ -25,7 +25,7 @@
 0.0.0.0 omegle.com
 0.0.0.0 discord.com
 0.0.0.0 twitch.tv
-0.0.0.0 faceflow.com
+0.0.0.0 www.faceflow.com
 0.0.0.0 mewe.com
 0.0.0.0 duckduckgo.com
 0.0.0.0 etsy.com
