@@ -1,7 +1,3 @@
-#-------------------------------------[INFO]---------------------------------------
-#
-# Hunter's Block list
-#------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 abtest-va-tiktok.byteoversea.com
 0.0.0.0 dm-maliva16.byteoversea.com
 0.0.0.0 dm.bytedance.com
