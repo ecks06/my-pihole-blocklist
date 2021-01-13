@@ -36,6 +36,6 @@
 0.0.0.0 discordapp.com
 0.0.0.0 discord.co
 0.0.0.0 dis.gd
-0.0.0.0 https://discord.me
-0.0.0.0 https://discord.me/servers
+0.0.0.0 discord.me
+0.0.0.0 discord.me/servers
 0.0.0.0 facebook.com
