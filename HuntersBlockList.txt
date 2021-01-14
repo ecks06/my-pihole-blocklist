@@ -41,3 +41,5 @@
 0.0.0.0 www.facebook.com
 0.0.0.0 mathtag.com
 0.0.0.0 unpkg.com
+0.0.0.0 snapchat.com
+0.0.0.0 tr.snapchat.com
