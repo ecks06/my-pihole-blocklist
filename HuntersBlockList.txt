@@ -43,3 +43,8 @@
 0.0.0.0 unpkg.com
 0.0.0.0 snapchat.com
 0.0.0.0 tr.snapchat.com
+0.0.0.0 yandex.ru
+0.0.0.0 www.instagram.com
+0.0.0.0 instagram.com
+0.0.0.0 whatapp.com
+0.0.0.0 www.whatsapp.com
