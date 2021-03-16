@@ -47,5 +47,13 @@
 0.0.0.0 yandex.ru
 0.0.0.0 www.instagram.com
 0.0.0.0 instagram.com
-0.0.0.0 whatapp.com
+0.0.0.0 whatsapp.com
 0.0.0.0 www.whatsapp.com
+0.0.0.0 https://hangouts.google.com
+0.0.0.0 https://client4.google.com
+0.0.0.0 https://client6.google.com
+0.0.0.0 https://talkgadget.google.com
+0.0.0.0 https://hangouts.google.com:443
+0.0.0.0 https://meet.google.com:443
+0.0.0.0 https://chat.google.com:443
+0.0.0.0 https://dynamite.sandbox.google.com:443
