@@ -31,13 +31,6 @@
 0.0.0.0 etsy.com
 0.0.0.0 www.tumblr.com
 0.0.0.0 pinterest.com
-0.0.0.0 discord.com
-0.0.0.0 discord.gg
-0.0.0.0 discordapp.com
-0.0.0.0 discord.co
-0.0.0.0 dis.gd
-0.0.0.0 discord.me
-0.0.0.0 discord.me/servers
 0.0.0.0 www.facebook.com
 0.0.0.0 mathtag.com
 0.0.0.0 unpkg.com
