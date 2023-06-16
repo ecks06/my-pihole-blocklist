@@ -30,14 +30,11 @@
 0.0.0.0 etsy.com
 0.0.0.0 www.tumblr.com
 0.0.0.0 pinterest.com
-0.0.0.0 www.facebook.com
 0.0.0.0 mathtag.com
 0.0.0.0 unpkg.com
 0.0.0.0 snapchat.com
 0.0.0.0 www.snapchat.com
 0.0.0.0 tr.snapchat.com
 0.0.0.0 yandex.ru
-0.0.0.0 www.instagram.com
-0.0.0.0 instagram.com
 0.0.0.0 whatsapp.com
 0.0.0.0 www.whatsapp.com
